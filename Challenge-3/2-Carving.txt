@@ -5,6 +5,8 @@ Open ftp_transfer.pcapng.
 
 What's the user's username? What's their password?
 
+username: salesxfer
+password: p@ssw0rd
 
 Reconstruct the user's spreadsheet.
 
